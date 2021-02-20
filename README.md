@@ -34,7 +34,7 @@ This tutorial depends on the following libraries:
 * torchvision 0.7.0+ 
 * PIL 
 * matplotlib 
-Also, this code should be compatible with Python versions 3.5+.
+* Python versions 3.5+.
 
 Run Carvana_UNet.ipynb
 You will see the predicted results in evaluation section in Carvana_UNet.ipynb
