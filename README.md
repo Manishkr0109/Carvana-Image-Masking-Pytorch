@@ -37,6 +37,7 @@ This tutorial depends on the following libraries:
 * Python versions 3.5+.
 
 Run Carvana_UNet.ipynb
+
 You will see the predicted results in evaluation section in Carvana_UNet.ipynb
 
 ### Results
