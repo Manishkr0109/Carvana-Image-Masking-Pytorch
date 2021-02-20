@@ -36,7 +36,7 @@ This tutorial depends on the following libraries:
 * matplotlib 
 * Python versions 3.5+.
 
-Run Carvana_UNet.ipynb
+Run src/Carvana_UNet.ipynb
 
 You will see the prediction results in evaluation section in Carvana_UNet.ipynb
 
