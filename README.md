@@ -38,7 +38,7 @@ This tutorial depends on the following libraries:
 
 Run Carvana_UNet.ipynb
 
-You will see the predicted results in evaluation section in Carvana_UNet.ipynb
+You will see the prediction results in evaluation section in Carvana_UNet.ipynb
 
 ### Results
 Use the trained model to do segmentation on test images, the result is statisfactory.
